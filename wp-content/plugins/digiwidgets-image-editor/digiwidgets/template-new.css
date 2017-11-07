@@ -1,0 +1,13 @@
+label{
+    display: inline-block;
+    clear: left;
+    width: 120px;
+    text-align: left;
+}
+input {
+    display: inline-block;
+}
+
+input[type="submit"] {
+    clear: both;
+}

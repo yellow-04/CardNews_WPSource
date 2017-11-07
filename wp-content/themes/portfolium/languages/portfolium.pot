@@ -1,0 +1,139 @@
+# Copyright (C) 2013 WPShower
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolium 1.1\n"
+"Report-Msgid-Bugs-To: http://http://wpshower.com/forums\n"
+"POT-Creation-Date: 2013-12-18 16:25+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-12-18 16:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: portfolium/single.php:5 portfolium/index.php:5 portfolium/search.php:5
+#: portfolium/404.php:5
+msgid "Subscribe to RSS feed"
+msgstr ""
+
+#: portfolium/single.php:8
+msgid "Back to blog"
+msgstr ""
+
+#: portfolium/single.php:20 portfolium/loop.php:7
+#, php-format
+msgid "Posted on %s by %s"
+msgstr ""
+
+#: portfolium/single.php:22 portfolium/loop.php:9
+msgid "No Comments"
+msgstr ""
+
+#: portfolium/single.php:22 portfolium/loop.php:9
+msgid "1 Comment"
+msgstr ""
+
+#: portfolium/single.php:22 portfolium/loop.php:9
+msgid "% Comments"
+msgstr ""
+
+#: portfolium/single.php:22 portfolium/loop.php:9
+msgid "Comments Closed"
+msgstr ""
+
+#: portfolium/single.php:23 portfolium/loop.php:10
+msgid "Share this post"
+msgstr ""
+
+#: portfolium/single.php:37
+msgid "Pages:"
+msgstr ""
+
+#: portfolium/single.php:49 portfolium/page.php:19
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: portfolium/header.php:13
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: portfolium/index.php:8
+msgid "Latest from blog"
+msgstr ""
+
+#: portfolium/functions.php:65
+msgid "Header"
+msgstr ""
+
+#: portfolium/functions.php:125
+msgid "Portfolio Categories"
+msgstr ""
+
+#: portfolium/functions.php:126
+msgid "Portfolio Category"
+msgstr ""
+
+#: portfolium/functions.php:137
+msgid "Portfolio"
+msgstr ""
+
+#: portfolium/functions.php:138
+msgid "Work"
+msgstr ""
+
+#: portfolium/functions.php:163
+#, php-format
+msgid "Posted on %s by <cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: portfolium/search.php:8
+msgid "Search Results"
+msgstr ""
+
+#: portfolium/archive.php:12
+#, php-format
+msgid "Tag &#8216;%s&#8217;"
+msgstr ""
+
+#: portfolium/archive.php:20
+msgid "Author Archive"
+msgstr ""
+
+#: portfolium/archive.php:22
+msgid "Blog Archives"
+msgstr ""
+
+#: portfolium/404.php:8
+msgid "404 Page not found"
+msgstr ""
+
+#: portfolium/comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: portfolium/comments.php:56
+msgid "Add your comment"
+msgstr ""
+
+#: portfolium/comments.php:57
+msgid "Post your comment"
+msgstr ""
+
+#: portfolium/comments.php:58
+msgid "Write your comment"
+msgstr ""
+
+#: portfolium/loop.php:22
+msgid "Read more"
+msgstr ""
+
+#: portfolium/inc/back-compat.php:31 portfolium/inc/back-compat.php:41
+#: portfolium/inc/back-compat.php:55
+#, php-format
+msgid ""
+"Portfolium requires at least WordPress version 3.6. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""

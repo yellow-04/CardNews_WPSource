@@ -1,0 +1,8 @@
+.clear {zoom: 1; clear: both;}
+* html .wrapper {height:100%;}
+.post_home, .right-desc, .cat-price {zoom: 1; display: inline;}
+li.parent a, li.parent a:hover {background-position: 100% 29px;}
+.nav a {padding-top: 22px;}
+*+html .taglist {margin-top: 65px;}
+* html .middle {padding-bottom: 91px;}
+*+html .middle {padding-bottom: 91px;}
